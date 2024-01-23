@@ -1,6 +1,7 @@
 # An in depth and MODERN tutorial on how to make tweaks for ios using swift, theos and orion in ubuntu, this will even work with something like serotonin and bootstrap
 ## for this tutorial i will be using ubuntu 22.04, it is possible in wsl but its stupidly hard to get it working since you dont have an gui, other distro's may also work but the commands will be different.
 
+## NOTE: if your tweak doesnt compile it is because THEOS doesnt like ios 16.5 so you have to install the 14.5 sdk (it still works for most things) so download [this](https://github.com/theos/sdks/archive/master.zip) repo and move the iPhoneOS14.5.sdk into $THEOS/sdks
 
 ## We will be creating this tweak: it will make almost all text what you want! ![IMG_6322](https://github.com/alseenwalnoot/How-to-theos-swift/assets/124501148/60916570-5bdb-43ad-b772-07a13e484b81)
 
