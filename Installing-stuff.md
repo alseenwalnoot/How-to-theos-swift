@@ -51,3 +51,5 @@ Step 4: ***"SANITY CHECK, again"*** do ```echo $THEOS``` the output should be "/
 Step 5: Select the orion branch by first going to theos directory, ```cd $THEOS``` then do ```git fetch && git checkout orion && git submodule update --init```.
 
 ### You would also need the Orion tweak from chariz repo (or roothide repo if you are on bootstrap) installed on the device where you are gonna put your tweak
+
+## Go to the next step: [Creating a project](https://github.com/alseenwalnoot/How-to-theos-swift/blob/main/Setting-up-the-project.md)
