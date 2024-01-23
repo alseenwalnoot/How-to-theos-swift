@@ -34,3 +34,5 @@ This will tell theos for what it should compile.
 *Package.swift* This file is only needed for swift and we dont have to do anything in it.
 
 *TextChangerTutorial.plist* This is what your jailbreak/semi-jailbreak needs to know what to inject to, for now we can leave it as is.
+
+## Go to the next step: [Coding the tweak and installing it](https://github.com/alseenwalnoot/How-to-theos-swift/blob/main/Coding-the-tweak-and-installing.md)
