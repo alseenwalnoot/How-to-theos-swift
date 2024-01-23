@@ -57,3 +57,5 @@ Author/Maintainer Name [dustin]:
 Instantiating iphone/tweak_swift in textchangertutorial/...
 Done.
 ```
+
+## Go to the next step: [Examining and making changes](https://github.com/alseenwalnoot/How-to-theos-swift/blob/main/Examining-and-changing.md)
